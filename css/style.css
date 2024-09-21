@@ -72,6 +72,7 @@ ul {
 ========================================*/
 .main_menu {
   padding: 24px 0;
+  background-color: #ffd9d9;
 }
 .main_menu ul {
   gap: 42px;
